@@ -1,0 +1,143 @@
+[
+	{
+		"id": "layers",
+		"title": "Layers of content",
+		"description": "e.g. translations, transliterations, comments, etc",
+		"content": [
+			{
+				"id": "toc",
+				"title": "Table of content",
+				"content": [
+					{
+						"id": "ar",
+						"title": "Arabic",
+						"value": true,
+						"main": true
+					},
+					{
+						"id": "ru",
+						"title": "Russian",
+						"value": true
+					}
+				]
+			},
+			{
+				"id": "content",
+				"title": "Phrases",
+				"value": true,
+				"content": [
+					{
+						"id": "ar",
+						"title": "Arabic",
+						"value": true,
+						"main": true
+					},
+					{
+						"id": "ru",
+						"title": "Russian",
+						"value": true
+					}
+				]
+			}
+		]
+	},
+	{
+		"id": "phrases",
+		"title": "Phrases block options",
+		"content": [
+			{
+				"id": "autoScroll",
+				"title": "Auto scroll",
+				"description": "page phrases while playing",
+				"value": true
+			},
+			{
+				"id": "showLayerName",
+				"title": "Show layer name",
+				"description": "e.g. [ar], [ru] in phrases",
+				"value": false
+			},
+			{
+				"id": "activePhraseMarginTopVideo",
+				"title": "active phrase margin top on video page",
+				"description": "The count of phrases you want to see above active phrase, while auto scrolling.",
+				"value": 0
+			},
+			{
+				"id": "activePhraseMarginTopAudio",
+				"title": "active phrase margin top on audio page",
+				"description": "The count of phrases you want to see above active phrase, while auto scrolling.",
+				"value": 2
+			}
+		]
+	},
+	{
+		"id": "player",
+		"title": "Player settings",
+		"content": [
+			{
+				"id": "playbackRate",
+				"title": "Speed",
+				"value": 1,
+				"min": 0.25,
+				"max": 2,
+				"step": 0.25
+			},
+			{
+				"id": "autoPlay",
+				"title": "Auto play",
+				"description": "Open next page, when current media finished",
+				"value": true
+			},
+			{
+				"id": "dictationMode",
+				"title": "Dictation",
+				"description": "Repeats phrases with given count and delay",
+				"value": false
+			},
+			{
+				"id": "delayMeasure",
+				"title": "Delay measure",
+				"description": "relative to phrase length, or fixed in seconds",
+				"value": "phraseLength",
+				"options": [
+					{ "id": "phraseLength", "title": "phrase length" },
+					{ "id": "seconds", "title": "seconds" }
+				]
+			},
+			{
+				"id": "repeatCount",
+				"title": "Repetitions count",
+				"value": 2,
+				"min": 1,
+				"step": 1
+			},
+
+			{
+				"id": "repeatDelay",
+				"title": "Delay length",
+				"description": "between repetitions",
+				"value": 2,
+				"min": 0,
+				"step": 1
+			},
+			{
+				"id": "showWaveform",
+				"title": "Show waveform",
+				"value": false
+			}
+		]
+	},
+	{
+		"id": "contentManagement",
+		"title": "Content management",
+		"content": [
+			{
+				"id": "editMode",
+				"value": false,
+				"title": "Edit mode",
+				"description": "available only if you are an admin"
+			}
+		]
+	}
+]
