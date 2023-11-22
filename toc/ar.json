@@ -667,5 +667,10 @@
 				"mediaLink": "youtu.be/5MpKTapFjxU"
 			}
 		]
+	},
+	{
+		"id": "support",
+		"title": "دعّم",
+		"type": "html"
 	}
 ]
