@@ -1273,6 +1273,783 @@
 		]
 	},
 	{
+		"id": "arabiya-1",
+		"title": "العربية بين يديك. كتاب ١",
+		"type": "folder",
+		"content": [
+			{
+				"id": "001",
+				"title": "١. التَّحِيَّةُ وَالتَّعَارُفُ",
+				"content": [
+					{ "id": "001", "title": "1.1", "type": "richAudio" },
+					{ "id": "002", "title": "1.2", "type": "richAudio" },
+					{ "id": "003", "title": "1.3", "type": "richAudio" },
+					{ "id": "004", "title": "1.4", "type": "richAudio" },
+					{ "id": "005", "title": "1.5", "type": "richAudio" },
+					{ "id": "006", "title": "1.6", "type": "richAudio" },
+					{ "id": "007", "title": "1.7", "type": "richAudio" },
+					{ "id": "008", "title": "1.8", "type": "richAudio" },
+					{ "id": "009", "title": "1.9", "type": "richAudio" },
+					{ "id": "010", "title": "1.10", "type": "richAudio" },
+					{ "id": "011", "title": "1.11", "type": "richAudio" },
+					{ "id": "012", "title": "1.12", "type": "richAudio" },
+					{ "id": "013", "title": "1.13", "type": "richAudio" },
+					{ "id": "014", "title": "1.14. الجدول النحوية", "type": "html" }
+				]
+			},
+			{
+				"id": "002",
+				"title": "٢. الأُسْرَةُ",
+				"content": [
+					{ "id": "001", "title": "2.1", "type": "richAudio" },
+					{ "id": "002", "title": "2.2", "type": "richAudio" },
+					{ "id": "003", "title": "2.3", "type": "richAudio" },
+					{ "id": "004", "title": "2.4", "type": "richAudio" },
+					{ "id": "005", "title": "2.5", "type": "richAudio" },
+					{ "id": "006", "title": "2.6", "type": "richAudio" },
+					{ "id": "007", "title": "2.7", "type": "richAudio" },
+					{ "id": "008", "title": "2.8", "type": "richAudio" },
+					{ "id": "009", "title": "2.9", "type": "richAudio" },
+					{ "id": "010", "title": "2.10. الجدول النحوية", "type": "html" }
+				]
+			},
+			{
+				"id": "003",
+				"title": "٣. السَّكَنُ",
+				"content": [
+					{ "id": "001", "title": "3.1", "type": "richAudio" },
+					{ "id": "002", "title": "3.2", "type": "richAudio" },
+					{ "id": "003", "title": "3.3", "type": "richAudio" },
+					{ "id": "004", "title": "3.4", "type": "richAudio" },
+					{ "id": "005", "title": "3.5", "type": "richAudio" },
+					{ "id": "006", "title": "3.6", "type": "richAudio" },
+					{ "id": "007", "title": "3.7", "type": "richAudio" },
+					{ "id": "008", "title": "3.8", "type": "richAudio" },
+					{ "id": "009", "title": "3.9", "type": "richAudio" },
+					{ "id": "010", "title": "3.10", "type": "richAudio" },
+					{ "id": "011", "title": "3.11", "type": "richAudio" },
+					{ "id": "012", "title": "3.12. الجدول النحوية", "type": "html" }
+				]
+			},
+			{
+				"id": "004",
+				"title": "٤. الحَيَاةُ اليَوْمِيَّةُ",
+				"content": [
+					{ "id": "001", "title": "4.1", "type": "richAudio" },
+					{ "id": "002", "title": "4.2", "type": "richAudio" },
+					{ "id": "003", "title": "4.3", "type": "richAudio" },
+					{ "id": "004", "title": "4.4", "type": "richAudio" },
+					{ "id": "005", "title": "4.5", "type": "richAudio" },
+					{ "id": "006", "title": "4.6", "type": "richAudio" },
+					{ "id": "007", "title": "4.7", "type": "richAudio" },
+					{ "id": "008", "title": "4.8", "type": "richAudio" },
+					{ "id": "009", "title": "4.9", "type": "richAudio" },
+					{ "id": "010", "title": "4.10. الجدول النحوية", "type": "html" }
+				]
+			},
+			{
+				"id": "005",
+				"title": "٥. الطَّعَامُ وَالشَّرَابُ",
+				"content": [
+					{ "id": "001", "title": "5.1", "type": "richAudio" },
+					{ "id": "002", "title": "5.2", "type": "richAudio" },
+					{ "id": "003", "title": "5.3", "type": "richAudio" },
+					{ "id": "004", "title": "5.4", "type": "richAudio" },
+					{ "id": "005", "title": "5.5", "type": "richAudio" },
+					{ "id": "006", "title": "5.6", "type": "richAudio" },
+					{ "id": "007", "title": "5.7", "type": "richAudio" },
+					{ "id": "008", "title": "5.8", "type": "richAudio" },
+					{ "id": "009", "title": "5.9", "type": "richAudio" },
+					{ "id": "010", "title": "5.10. الجدول النحوية", "type": "html" }
+				]
+			},
+			{
+				"id": "006",
+				"title": "٦. الصَّلاةُ",
+				"content": [
+					{ "id": "001", "title": "6.1", "type": "richAudio" },
+					{ "id": "002", "title": "6.2", "type": "richAudio" },
+					{ "id": "003", "title": "6.3", "type": "richAudio" },
+					{ "id": "004", "title": "6.4", "type": "richAudio" },
+					{ "id": "005", "title": "6.5", "type": "richAudio" },
+					{ "id": "006", "title": "6.6", "type": "richAudio" },
+					{ "id": "007", "title": "6.7", "type": "richAudio" },
+					{ "id": "008", "title": "6.8", "type": "richAudio" },
+					{ "id": "009", "title": "6.9", "type": "richAudio" },
+					{ "id": "010", "title": "6.10", "type": "richAudio" },
+					{ "id": "011", "title": "6.11. الجدول النحوية", "type": "html" }
+				]
+			},
+			{
+				"id": "007",
+				"title": "٧. الدِّرَاسَةُ",
+				"content": [
+					{ "id": "001", "title": "7.1", "type": "richAudio" },
+					{ "id": "002", "title": "7.2", "type": "richAudio" },
+					{ "id": "003", "title": "7.3", "type": "richAudio" },
+					{ "id": "004", "title": "7.4", "type": "richAudio" },
+					{ "id": "005", "title": "7.5", "type": "richAudio" },
+					{ "id": "006", "title": "7.6", "type": "richAudio" },
+					{ "id": "007", "title": "7.7", "type": "richAudio" },
+					{ "id": "008", "title": "7.8", "type": "richAudio" },
+					{ "id": "009", "title": "7.9", "type": "richAudio" },
+					{ "id": "010", "title": "7.10", "type": "richAudio" },
+					{ "id": "011", "title": "7.11", "type": "richAudio" },
+					{ "id": "012", "title": "7.12. الجدول النحوية", "type": "html" }
+				]
+			},
+			{
+				"id": "008",
+				"title": "٨. الْعَمَلُ",
+				"content": [
+					{ "id": "001", "title": "8.1", "type": "richAudio" },
+					{ "id": "002", "title": "8.2", "type": "richAudio" },
+					{ "id": "003", "title": "8.3", "type": "richAudio" },
+					{ "id": "004", "title": "8.4", "type": "richAudio" },
+					{ "id": "005", "title": "8.5", "type": "richAudio" },
+					{ "id": "006", "title": "8.6", "type": "richAudio" },
+					{ "id": "007", "title": "8.7", "type": "richAudio" },
+					{ "id": "008", "title": "8.8", "type": "richAudio" },
+					{ "id": "009", "title": "8.9", "type": "richAudio" },
+					{ "id": "010", "title": "8.10", "type": "richAudio" },
+					{ "id": "011", "title": "8.11. الجدول النحوية", "type": "html" }
+				]
+			},
+			{
+				"id": "009",
+				"title": "٩. التَّسَوُّقُ",
+				"content": [
+					{ "id": "001", "title": "9.1", "type": "richAudio" },
+					{ "id": "002", "title": "9.2", "type": "richAudio" },
+					{ "id": "003", "title": "9.3", "type": "richAudio" },
+					{ "id": "004", "title": "9.4", "type": "richAudio" },
+					{ "id": "005", "title": "9.5", "type": "richAudio" },
+					{ "id": "006", "title": "9.6", "type": "richAudio" },
+					{ "id": "007", "title": "9.7", "type": "richAudio" },
+					{ "id": "008", "title": "9.8", "type": "richAudio" },
+					{ "id": "009", "title": "9.9", "type": "richAudio" },
+					{ "id": "010", "title": "9.10", "type": "richAudio" },
+					{ "id": "011", "title": "9.11", "type": "richAudio" },
+					{ "id": "012", "title": "9.12. الجدول النحوية", "type": "html" }
+				]
+			},
+			{
+				"id": "010",
+				"title": "١٠. الجَوُّ",
+				"content": [
+					{ "id": "001", "title": "10.1", "type": "richAudio" },
+					{ "id": "002", "title": "10.2", "type": "richAudio" },
+					{ "id": "003", "title": "10.3", "type": "richAudio" },
+					{ "id": "004", "title": "10.4", "type": "richAudio" },
+					{ "id": "005", "title": "10.5", "type": "richAudio" },
+					{ "id": "006", "title": "10.6", "type": "richAudio" },
+					{ "id": "007", "title": "10.7", "type": "richAudio" },
+					{ "id": "008", "title": "10.8", "type": "richAudio" },
+					{ "id": "009", "title": "10.9", "type": "richAudio" },
+					{ "id": "010", "title": "10.10", "type": "richAudio" },
+					{ "id": "011", "title": "10.11. الجدول النحوية", "type": "html" }
+				]
+			},
+			{
+				"id": "011",
+				"title": "١١. النَّاسُ والأَمَاكِنُ",
+				"content": [
+					{ "id": "001", "title": "11.1", "type": "richAudio" },
+					{ "id": "002", "title": "11.2", "type": "richAudio" },
+					{ "id": "003", "title": "11.3", "type": "richAudio" },
+					{ "id": "004", "title": "11.4", "type": "richAudio" },
+					{ "id": "005", "title": "11.5", "type": "richAudio" },
+					{ "id": "006", "title": "11.6", "type": "richAudio" },
+					{ "id": "007", "title": "11.7", "type": "richAudio" },
+					{ "id": "008", "title": "11.8", "type": "richAudio" },
+					{ "id": "009", "title": "11.9", "type": "richAudio" },
+					{ "id": "010", "title": "11.10", "type": "richAudio" },
+					{ "id": "011", "title": "11.11. الجدول النحوية", "type": "html" }
+				]
+			},
+			{
+				"id": "012",
+				"title": "١٢. الهِوَايَاتُ",
+				"content": [
+					{ "id": "001", "title": "12.1", "type": "richAudio" },
+					{ "id": "002", "title": "12.2", "type": "richAudio" },
+					{ "id": "003", "title": "12.3", "type": "richAudio" },
+					{ "id": "004", "title": "12.4", "type": "richAudio" },
+					{ "id": "005", "title": "12.5", "type": "richAudio" },
+					{ "id": "006", "title": "12.6", "type": "richAudio" },
+					{ "id": "007", "title": "12.7", "type": "richAudio" },
+					{ "id": "008", "title": "12.8", "type": "richAudio" },
+					{ "id": "009", "title": "12.9", "type": "richAudio" },
+					{ "id": "010", "title": "12.10", "type": "richAudio" },
+					{ "id": "011", "title": "12.11", "type": "richAudio" },
+					{ "id": "012", "title": "12.12. الجدول النحوية", "type": "html" }
+				]
+			},
+			{
+				"id": "013",
+				"title": "١٣. السَّفَرُ",
+				"content": [
+					{ "id": "001", "title": "13.1", "type": "richAudio" },
+					{ "id": "002", "title": "13.2", "type": "richAudio" },
+					{ "id": "003", "title": "13.3", "type": "richAudio" },
+					{ "id": "004", "title": "13.4", "type": "richAudio" },
+					{ "id": "005", "title": "13.5", "type": "richAudio" },
+					{ "id": "006", "title": "13.6", "type": "richAudio" },
+					{ "id": "007", "title": "13.7", "type": "richAudio" },
+					{ "id": "008", "title": "13.8", "type": "richAudio" },
+					{ "id": "009", "title": "13.9", "type": "richAudio" },
+					{ "id": "010", "title": "13.10. الجدول النحوية", "type": "html" }
+				]
+			},
+			{
+				"id": "014",
+				"title": "١٤. الحَجُّ وَالْعُمْرَةُ",
+				"content": [
+					{ "id": "001", "title": "14.1", "type": "richAudio" },
+					{ "id": "002", "title": "14.2", "type": "richAudio" },
+					{ "id": "003", "title": "14.3", "type": "richAudio" },
+					{ "id": "004", "title": "14.4", "type": "richAudio" },
+					{ "id": "005", "title": "14.5", "type": "richAudio" },
+					{ "id": "006", "title": "14.6", "type": "richAudio" },
+					{ "id": "007", "title": "14.7", "type": "richAudio" },
+					{ "id": "008", "title": "14.8", "type": "richAudio" },
+					{ "id": "009", "title": "14.9", "type": "richAudio" },
+					{ "id": "010", "title": "14.10", "type": "richAudio" },
+					{ "id": "011", "title": "14.11", "type": "richAudio" },
+					{ "id": "012", "title": "14.12. الجدول النحوية", "type": "html" }
+				]
+			},
+			{
+				"id": "015",
+				"title": "١٥. الصِّحَةُ",
+				"content": [
+					{ "id": "001", "title": "15.1", "type": "richAudio" },
+					{ "id": "002", "title": "15.2", "type": "richAudio" },
+					{ "id": "003", "title": "15.3", "type": "richAudio" },
+					{ "id": "004", "title": "15.4", "type": "richAudio" },
+					{ "id": "005", "title": "15.5", "type": "richAudio" },
+					{ "id": "006", "title": "15.6", "type": "richAudio" },
+					{ "id": "007", "title": "15.7", "type": "richAudio" },
+					{ "id": "008", "title": "15.8", "type": "richAudio" },
+					{ "id": "009", "title": "15.9", "type": "richAudio" },
+					{ "id": "010", "title": "15.10", "type": "richAudio" },
+					{ "id": "011", "title": "15.11", "type": "richAudio" },
+					{ "id": "012", "title": "15.12. الجدول النحوية", "type": "html" }
+				]
+			},
+			{
+				"id": "016",
+				"title": "١٦. العُطْلَةُ",
+				"content": [
+					{ "id": "001", "title": "16.1", "type": "richAudio" },
+					{ "id": "002", "title": "16.2", "type": "richAudio" },
+					{ "id": "003", "title": "16.3", "type": "richAudio" },
+					{ "id": "004", "title": "16.4", "type": "richAudio" },
+					{ "id": "005", "title": "16.5", "type": "richAudio" },
+					{ "id": "006", "title": "16.6", "type": "richAudio" },
+					{ "id": "007", "title": "16.7", "type": "richAudio" },
+					{ "id": "008", "title": "16.8", "type": "richAudio" },
+					{ "id": "009", "title": "16.9", "type": "richAudio" },
+					{ "id": "010", "title": "16.10", "type": "richAudio" },
+					{ "id": "011", "title": "16.11", "type": "richAudio" },
+					{ "id": "012", "title": "16.12. الجدول النحوية", "type": "html" }
+				]
+			}
+		]
+	},
+	{
+		"id": "arabiya-2",
+		"title": "العربية بين يديك. كتاب ٢",
+		"type": "folder",
+		"content": [
+			{
+				"id": "001",
+				"title": "١. العناية بالصحة",
+				"content": [
+					{
+						"id": "001",
+						"title": "1.1. في العَسَلِ شِفاءٌ",
+						"type": "richAudio"
+					},
+					{
+						"id": "003",
+						"title": "1.3. زَيْنَبُ وَمَرْيَمُ صَدِيقَتانِ",
+						"type": "richAudio"
+					},
+					{
+						"id": "004",
+						"title": "1.4. عِنْــــدَ الطَّبِيبِ",
+						"type": "richAudio"
+					},
+					{
+						"id": "006",
+						"title": "1.6. الصِّحَّةُ بَيْنَ الماضي و الحاضِر",
+						"type": "richAudio"
+					},
+					{
+						"id": "007",
+						"title": "1.7. مِنْ أَضْرارِ التَّدْخين",
+						"type": "richAudio"
+					},
+
+					{
+						"id": "001",
+						"title": "3.1. عَلَيْكَ بِذَاتَ الدِّينِ",
+						"type": "richAudio"
+					}
+				]
+			},
+			{
+				"id": "002",
+				"title": "٢. الترويح عن النفس",
+				"content": [
+					{
+						"id": "001",
+						"title": "2.1. الانسَانُ يَحْتاجُ إلى التَّرْويحِ",
+						"type": "richAudio"
+					},
+					{
+						"id": "003",
+						"title": "2.3. أَنْواعُ التَّرْويحِ",
+						"type": "richAudio"
+					},
+					{
+						"id": "004",
+						"title": "2.4. كَيْــــفَ نَقْضِي العُطْلَةَ ؟",
+						"type": "richAudio"
+					},
+					{ "id": "006", "title": "2.6. التَّخَيمٌ", "type": "richAudio" },
+					{
+						"id": "007",
+						"title": "2.7. التَّرْويحُ في الإسْلامِ",
+						"type": "richAudio"
+					}
+				]
+			},
+			{
+				"id": "003",
+				"title": "٣. الحياة الزوجية",
+				"content": [
+					{
+						"id": "003",
+						"title": "3.3. هَلْ تَحْدُثُ مُشْكِلاتٌ بَيْنَ الزَّوجَينِ ؟",
+						"type": "richAudio"
+					},
+					{
+						"id": "004",
+						"title": "3.4. السَّهَرُ خَارِجَ البَيْتِ",
+						"type": "richAudio"
+					},
+					{
+						"id": "006",
+						"title": "3.6. الأُسْرَةُ بَينَ الماضِي والحَاضر",
+						"type": "richAudio"
+					},
+					{
+						"id": "007",
+						"title": "3.7. اِخْتِيارُ الزَّوْجَةِ",
+						"type": "richAudio"
+					}
+				]
+			},
+			{
+				"id": "004",
+				"title": "٤. الحياة في المدينة",
+				"content": [
+					{
+						"id": "001",
+						"title": "4.1. بَيْنَ القَرْيةِ وَالمَدينَةِ",
+						"type": "richAudio"
+					},
+					{
+						"id": "003",
+						"title": "4.3. لمِاذا يُفَضِّلُ بَعْضُ النَّاسِ الحَياةَ في المُدُنِ الكَبيرَةِ ؟",
+						"type": "richAudio"
+					},
+					{
+						"id": "004",
+						"title": "4.4. الطََّرِيقُ إِلى الجَامِعَةِ",
+						"type": "richAudio"
+					},
+					{
+						"id": "006",
+						"title": "4.6. مِنْ مُدُنِ العالَمِ الكُبْرى",
+						"type": "richAudio"
+					},
+					{
+						"id": "007",
+						"title": "4.7. مُدُنٌ إِسْلامِيَّةٌ",
+						"type": "richAudio"
+					}
+				]
+			},
+			{
+				"id": "005",
+				"title": "٥. العلم والتعلم",
+				"content": [
+					{
+						"id": "001",
+						"title": "5.1. الالْتِحاقُ بالجامِعَةِ",
+						"type": "richAudio"
+					},
+					{
+						"id": "003",
+						"title": "5.3. التَّعْلِيمُ بَيْنَ الماضي وَالحاضِر",
+						"type": "richAudio"
+					},
+					{
+						"id": "004",
+						"title": "5.4. حَضارَةُ المُسْلِمينَ",
+						"type": "richAudio"
+					},
+					{
+						"id": "006",
+						"title": "5.6. مَراحِلُ التَّعْلِيمِ",
+						"type": "richAudio"
+					},
+					{
+						"id": "007",
+						"title": "5.7. المَدَارِسُ وَالمَعَاهِدُ العِلْمِيَّة",
+						"type": "richAudio"
+					}
+				]
+			},
+			{
+				"id": "006",
+				"title": "٦. المهن",
+				"content": [
+					{
+						"id": "001",
+						"title": "6.1. البَحْثُ عَنْ العَمَلِ",
+						"type": "richAudio"
+					},
+					{
+						"id": "003",
+						"title": "6.3. عَمَــلُ المـَـرْأةِ",
+						"type": "richAudio"
+					},
+					{
+						"id": "004",
+						"title": "6.4. الاِغْتِرَابُ لِلّعَمَلِ",
+						"type": "richAudio"
+					},
+					{
+						"id": "006",
+						"title": "6.6. عَمَلٌ خَيْرٌ مِنْ مَسْأ لَةٍ",
+						"type": "richAudio"
+					},
+					{
+						"id": "007",
+						"title": "6.7. كَيفَ تَخْتَارُ مِهْنَتَكَ",
+						"type": "richAudio"
+					}
+				]
+			},
+			{
+				"id": "007",
+				"title": "٧. اللغة العربية",
+				"content": [
+					{
+						"id": "001",
+						"title": "7.1. بَينَ طَالبَتَينِ",
+						"type": "richAudio"
+					},
+					{
+						"id": "003",
+						"title": "7.3. العَرَبِيَّةُ الفَصِيحَةُ وأَثَرُهَا",
+						"type": "richAudio"
+					},
+					{
+						"id": "004",
+						"title": "7.4. السَّفَرُ لِطَلبِ العِلْمِ",
+						"type": "richAudio"
+					},
+					{
+						"id": "006",
+						"title": "7.6. العَرَبِيَّةُ لُغَةٌ عَالَمِيَّةٌ",
+						"type": "richAudio"
+					},
+					{
+						"id": "007",
+						"title": "7.7. َبينَ العَرَبِيَةِ والقُرْآنِ",
+						"type": "richAudio"
+					}
+				]
+			},
+			{
+				"id": "008",
+				"title": "٨. الجوائز",
+				"content": [
+					{
+						"id": "001",
+						"title": "8.1. الفَرْحَـُـةُ بِالجَوائِــزِ",
+						"type": "richAudio"
+					},
+					{
+						"id": "003",
+						"title": "8.3. أَنـْـــواعُ الْجَوائِزِ",
+						"type": "richAudio"
+					},
+					{
+						"id": "004",
+						"title": "8.4. اخْتِيارِ الطّالِبِ المِثالِيِّ",
+						"type": "richAudio"
+					},
+					{
+						"id": "006",
+						"title": "8.6. جَائِزَةُ المَلِكِ فَيْصَل العالَمِيَّة",
+						"type": "richAudio"
+					},
+					{
+						"id": "007",
+						"title": "8.7. عُلَمَاءُ ناَلُوا جَائزَةَ الْمَلِكِ فَيْصَلٍ",
+						"type": "richAudio"
+					}
+				]
+			},
+			{
+				"id": "009",
+				"title": "٩. العالم قرية صغيرة",
+				"content": [
+					{
+						"id": "001",
+						"title": "9.1. الشَّبَكَةُ الدَّوليِّةُ",
+						"type": "richAudio"
+					},
+					{
+						"id": "003",
+						"title": "9.3. وَسائِلُ النَّقْلِ وَالإِتصالِ قَديِماً وَحَديثاً",
+						"type": "richAudio"
+					},
+					{
+						"id": "004",
+						"title": "9.4. نَدْوَةُ عَن العَوْلَمَةِ",
+						"type": "richAudio"
+					},
+					{
+						"id": "006",
+						"title": "9.6. دُوَلُ الشَّمالِ ودُولُ الجَنوبِ",
+						"type": "richAudio"
+					},
+					{ "id": "007", "title": "9.7. الْعَــولَمَة", "type": "richAudio" }
+				]
+			},
+			{
+				"id": "010",
+				"title": "١٠. النظافة",
+				"content": [
+					{
+						"id": "001",
+						"title": "10.1. المُسْلِمُ يَهْتَمُ بالنَظافَةِ",
+						"type": "richAudio"
+					},
+					{
+						"id": "003",
+						"title": "10.3. الإِسْلامُ والطْهارةُ",
+						"type": "richAudio"
+					},
+					{
+						"id": "004",
+						"title": "10.4. الأَكَلاتُ السَّريعَة",
+						"type": "richAudio"
+					},
+					{
+						"id": "006",
+						"title": "10.6. نظَافَةُ البِيئَةِ",
+						"type": "richAudio"
+					},
+					{
+						"id": "007",
+						"title": "10.7. الدِّينُ يَدعُو لِلنَّظَافَةِ",
+						"type": "richAudio"
+					}
+				]
+			},
+			{
+				"id": "011",
+				"title": "١١. الإسلام",
+				"content": [
+					{
+						"id": "001",
+						"title": "11.1. كَيفَ َتفْهَمُ الإِسْلامَ فهماً صَحيِحاً ؟",
+						"type": "richAudio"
+					},
+					{
+						"id": "003",
+						"title": "11.3. حَقِيقَةُ الإِسْلامِ",
+						"type": "richAudio"
+					},
+					{
+						"id": "004",
+						"title": "11.4. لِمَاذَا أسْلَمَ كَارْلُسُ ؟",
+						"type": "richAudio"
+					},
+					{
+						"id": "006",
+						"title": "11.6. أَرْكَانُ الإِسْلامِ الخَمْسَة",
+						"type": "richAudio"
+					},
+					{
+						"id": "007",
+						"title": "11.7. الباحث عن الحقيقة",
+						"type": "richAudio"
+					}
+				]
+			},
+			{
+				"id": "012",
+				"title": "١٢. الشباب",
+				"content": [
+					{
+						"id": "001",
+						"title": "12.1. مَرْحَلّةُ المُرَاهَقَــةِ",
+						"type": "richAudio"
+					},
+					{
+						"id": "003",
+						"title": "12.3. مَرْحَلَةُ الشَّبابِ",
+						"type": "richAudio"
+					},
+					{
+						"id": "004",
+						"title": "12.4. العِلاَقَةُ بَيْنَ الآباءِ والأبْناءِ",
+						"type": "richAudio"
+					},
+					{
+						"id": "006",
+						"title": "12.6. مِنْ مُشْكِلاتِ الشَّبابِ",
+						"type": "richAudio"
+					},
+					{
+						"id": "007",
+						"title": "12.7. طَبَقاتُ الأَصْدِقاءِ",
+						"type": "richAudio"
+					}
+				]
+			},
+			{
+				"id": "013",
+				"title": "١٣. العالم الإسلامي",
+				"content": [
+					{
+						"id": "001",
+						"title": "13.1. مُسابَقَةٌ إِسْلامِيّةٌ",
+						"type": "richAudio"
+					},
+					{
+						"id": "003",
+						"title": "13.3. ميزاتُ العالَمِ الإِسْلاميِّ",
+						"type": "richAudio"
+					},
+					{
+						"id": "004",
+						"title": "13.4. أَسْبابُ ضَعْفِ المُسْلِمينَ",
+						"type": "richAudio"
+					},
+					{
+						"id": "006",
+						"title": "13.6. مِنَ الدُّولِ الإِسْلامِيّةِ",
+						"type": "richAudio"
+					},
+					{
+						"id": "007",
+						"title": "13.7. آثارُ الثَّقافَةِ الإسْلامِيَّةِ",
+						"type": "richAudio"
+					}
+				]
+			},
+			{
+				"id": "014",
+				"title": "١٤. الأمن",
+				"content": [
+					{
+						"id": "001",
+						"title": "14.1. حادِثُ سَرِقَةٍ",
+						"type": "richAudio"
+					},
+					{
+						"id": "003",
+						"title": "14.3. الحَرْبُ والسّلامُ",
+						"type": "richAudio"
+					},
+					{
+						"id": "004",
+						"title": "14.4. أَسْـبَابُ الجَرِيمَة",
+						"type": "richAudio"
+					},
+					{
+						"id": "006",
+						"title": "14.6. أثَرُ الأَمْن في الحَياةِ",
+						"type": "richAudio"
+					},
+					{
+						"id": "007",
+						"title": "14.7. مَفْهُومُ الأمْنِ في الإسْلامِ",
+						"type": "richAudio"
+					}
+				]
+			},
+			{
+				"id": "015",
+				"title": "١٥. التلوث",
+				"content": [
+					{
+						"id": "001",
+						"title": "15.1. دَفْنُ النُفَاياتِ",
+						"type": "richAudio"
+					},
+					{
+						"id": "003",
+						"title": "15.3. أنْواعُ تَلَوُّثِ البيئَةِ",
+						"type": "richAudio"
+					},
+					{
+						"id": "004",
+						"title": "15.4. مَنْ يَحْمي البيئَةِ ؟ ومَنْ يُفْسِدُها ؟",
+						"type": "richAudio"
+					},
+					{
+						"id": "006",
+						"title": "15.6. وَسائِلُ المُحافَظَةِ عَلى البيئَةِ",
+						"type": "richAudio"
+					},
+					{
+						"id": "007",
+						"title": "15.7. الحمايةُ مِنَ التَّلَوُّثِ",
+						"type": "richAudio"
+					}
+				]
+			},
+			{
+				"id": "016",
+				"title": "١٦. الطاقة",
+				"content": [
+					{
+						"id": "001",
+						"title": "16.1. فاتُورَةُ الكَهْرَباءِ",
+						"type": "richAudio"
+					},
+					{ "id": "003", "title": "16.3. النِّفْطُ", "type": "richAudio" },
+					{
+						"id": "004",
+						"title": "16.4. أزْمَـةُ النِفْطِ",
+						"type": "richAudio"
+					},
+					{
+						"id": "006",
+						"title": "16.6. الطّاقَةُ الشَّمْسِيَّةُ",
+						"type": "richAudio"
+					},
+					{
+						"id": "007",
+						"title": "16.7. أَنْواعُ الطّاقَةِ",
+						"type": "richAudio"
+					}
+				]
+			}
+		]
+	},
+	{
 		"id": "arabic",
 		"title": "اللغة العربية, سلسلة من 4 أفلام لالجزيرة",
 		"type": "folder",
@@ -1300,6 +2077,12 @@
 				"type": "richVideo",
 				"title": "أزمة إنسان أم أزمة لسان (الحلقة الرابعة)",
 				"mediaLink": "youtu.be/_BF21B3evyg"
+			},
+			{
+				"id": "001-001",
+				"type": "richVideo",
+				"title": "part 001-001 (6:33)",
+				"mediaLink": "https://youtu.be/LbxHk_AmR1w"
 			}
 		]
 	},
