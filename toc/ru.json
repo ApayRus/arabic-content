@@ -2232,27 +2232,55 @@
 		"content": [
 			{
 				"id": "001",
-				"type": "richVideo",
+				"type": "folder",
 				"title": "От красоты к совершенству",
-				"mediaLink": "youtu.be/hin8Tgwk2Ns"
+				"content": [
+					{
+						"id": "001",
+						"type": "richVideo",
+						"title": "От красоты к совершенству 1.1."
+					},
+					{
+						"id": "002",
+						"type": "richVideo",
+						"title": "От красоты к совершенству 1.2."
+					},
+					{
+						"id": "003",
+						"type": "richVideo",
+						"title": "От красоты к совершенству 1.3."
+					},
+					{
+						"id": "004",
+						"type": "richVideo",
+						"title": "От красоты к совершенству 1.4."
+					},
+					{
+						"id": "005",
+						"type": "richVideo",
+						"title": "От красоты к совершенству 1.5."
+					},
+					{
+						"id": "004",
+						"type": "richVideo",
+						"title": "От красоты к совершенству 1.6."
+					}
+				]
 			},
 			{
 				"id": "002",
-				"type": "richVideo",
 				"title": "Организованная симфония (не готово)",
-				"mediaLink": "youtu.be/Lhf9GsGVLIU"
+				"content": []
 			},
 			{
 				"id": "003",
-				"type": "richVideo",
 				"title": "Моя язык - моя идентичность (не готово)",
-				"mediaLink": "youtu.be/PYbqOvA-Bqw"
+				"content": []
 			},
 			{
 				"id": "004",
-				"type": "richVideo",
 				"title": "Кризис людей или языка (не готово)",
-				"mediaLink": "youtu.be/_BF21B3evyg"
+				"content": []
 			}
 		]
 	},
@@ -2262,34 +2290,81 @@
 		"type": "folder",
 		"content": [
 			{
-				"id": "1",
-				"type": "richVideo",
+				"id": "001",
 				"title": "Нити заговора",
-				"mediaLink": "youtu.be/hxxP9NZsHEc"
+				"content": [
+					{
+						"id": "001",
+						"type": "richVideo",
+						"title": "Накба 1.1"
+					},
+					{
+						"id": "002",
+						"type": "richVideo",
+						"title": "Накба 1.2"
+					},
+					{
+						"id": "003",
+						"type": "richVideo",
+						"title": "Накба 1.3"
+					},
+					{
+						"id": "004",
+						"type": "richVideo",
+						"title": "Накба 1.4"
+					},
+					{
+						"id": "005",
+						"type": "richVideo",
+						"title": "Накба 1.5"
+					},
+					{
+						"id": "006",
+						"type": "richVideo",
+						"title": "Накба 1.6"
+					},
+					{
+						"id": "007",
+						"type": "richVideo",
+						"title": "Накба 1.7"
+					},
+					{
+						"id": "008",
+						"type": "richVideo",
+						"title": "Накба 1.8"
+					},
+					{
+						"id": "009",
+						"type": "richVideo",
+						"title": "Накба 1.9"
+					},
+					{
+						"id": "010",
+						"type": "richVideo",
+						"title": "Накба 1.10"
+					}
+				]
 			},
 			{
 				"id": "2",
 				"type": "richVideo",
-				"title": "Разгром восстания (не готово)",
-				"mediaLink": "youtu.be/QzkZ3xjBkaM"
+				"title": "Разгром восстания (не готово)"
 			},
 			{
 				"id": "3",
 				"type": "richVideo",
-				"title": "Этническая чистка (не готово)",
-				"mediaLink": "youtu.be/JAR9fD-MAyo"
+				"title": "Этническая чистка (не готово)"
 			},
 			{
 				"id": "4",
 				"type": "richVideo",
-				"title": "Продолжение (не готово)",
-				"mediaLink": "youtu.be/5MpKTapFjxU"
+				"title": "Продолжение (не готово)"
 			}
 		]
 	},
 	{
-		"id": "support",
-		"title": "Поддержите",
+		"id": "about",
+		"title": "О нас",
 		"type": "html"
 	}
 ]

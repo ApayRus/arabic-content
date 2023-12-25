@@ -2055,33 +2055,61 @@
 		"content": [
 			{
 				"id": "001",
-				"type": "richVideo",
+				"type": "folder",
 				"title": "من الجمال إلى الكمال (الحلقة الأولى)",
-				"mediaLink": "youtu.be/hin8Tgwk2Ns"
+				"content": [
+					{
+						"id": "001",
+						"type": "richVideo",
+						"title": "1.1. من الجمال إلى الكمال",
+						"mediaLink": "https://youtu.be/Hh0idQHxSRg"
+					},
+					{
+						"id": "002",
+						"type": "richVideo",
+						"title": "1.2. من الجمال إلى الكمال",
+						"mediaLink": "https://youtu.be/cjO4VZF4-mY"
+					},
+					{
+						"id": "003",
+						"type": "richVideo",
+						"title": "1.3. من الجمال إلى الكمال",
+						"mediaLink": "https://youtu.be/zrdVPeYBS6U"
+					},
+					{
+						"id": "004",
+						"type": "richVideo",
+						"title": "1.4. من الجمال إلى الكمال",
+						"mediaLink": "https://youtu.be/KBUfPqj7zjM"
+					},
+					{
+						"id": "005",
+						"type": "richVideo",
+						"title": "1.5. من الجمال إلى الكمال",
+						"mediaLink": "https://youtu.be/SLkFNWDIpOQ"
+					},
+					{
+						"id": "006",
+						"type": "richVideo",
+						"title": "1.6. من الجمال إلى الكمال",
+						"mediaLink": "https://youtu.be/BO825gxcsNg"
+					}
+				]
 			},
 			{
 				"id": "002",
-				"type": "richVideo",
 				"title": "السمفونية المنظومة (الحلقة الثانية)",
-				"mediaLink": "youtu.be/Lhf9GsGVLIU"
+				"content": []
 			},
 			{
 				"id": "003",
-				"type": "richVideo",
 				"title": "لغتي هويتي (الحلقة الثالثة)",
-				"mediaLink": "youtu.be/PYbqOvA-Bqw"
+				"content": []
 			},
 			{
 				"id": "004",
-				"type": "richVideo",
 				"title": "أزمة إنسان أم أزمة لسان (الحلقة الرابعة)",
-				"mediaLink": "youtu.be/_BF21B3evyg"
-			},
-			{
-				"id": "001-001",
-				"type": "richVideo",
-				"title": "part 001-001 (6:33)",
-				"mediaLink": "https://youtu.be/LbxHk_AmR1w"
+				"content": []
 			}
 		]
 	},
@@ -2091,10 +2119,70 @@
 		"type": "folder",
 		"content": [
 			{
-				"id": "1",
-				"type": "richVideo",
+				"id": "001",
 				"title": "الجزء الأول خيوط المؤامرة",
-				"mediaLink": "youtu.be/hxxP9NZsHEc"
+				"content": [
+					{
+						"id": "001",
+						"type": "richVideo",
+						"title": "النكبة 1.1",
+						"mediaLink": "https://youtu.be/HVHP4YaMq9U"
+					},
+					{
+						"id": "002",
+						"type": "richVideo",
+						"title": "النكبة 1.2",
+						"mediaLink": "https://youtu.be/QAYMonEk-dg"
+					},
+					{
+						"id": "003",
+						"type": "richVideo",
+						"title": "النكبة 1.3",
+						"mediaLink": "https://youtu.be/OSqmhxkIKls"
+					},
+					{
+						"id": "004",
+						"type": "richVideo",
+						"title": "النكبة 1.4",
+						"mediaLink": "https://youtu.be/mod1T-0mE7g"
+					},
+					{
+						"id": "005",
+						"type": "richVideo",
+						"title": "النكبة 1.5",
+						"mediaLink": "https://youtu.be/akIVI1N8uJo"
+					},
+					{
+						"id": "006",
+						"type": "richVideo",
+						"title": "النكبة 1.6",
+						"mediaLink": "https://youtu.be/pEcK6gJcvW4"
+					},
+					{
+						"id": "007",
+						"type": "richVideo",
+						"title": "النكبة 1.7",
+						"mediaLink": "https://youtu.be/iXSLQNUu25w"
+					},
+					{
+						"id": "008",
+						"type": "richVideo",
+						"title": "النكبة 1.8",
+						"mediaLink": "https://youtu.be/tJ9RLV9RSx8"
+					},
+					{
+						"id": "009",
+						"type": "richVideo",
+						"title": "النكبة 1.9",
+						"mediaLink": "https://youtu.be/xeC96rcQw4U"
+					},
+					{
+						"id": "010",
+						"type": "richVideo",
+						"title": "النكبة 1.10",
+						"mediaLink": "https://youtu.be/vkcIb5N59FQ"
+					}
+				]
 			},
 			{
 				"id": "2",
@@ -2117,8 +2205,8 @@
 		]
 	},
 	{
-		"id": "support",
-		"title": "دعّم",
+		"id": "about",
+		"title": "من نحن",
 		"type": "html"
 	}
 ]
