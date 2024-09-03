@@ -2373,6 +2373,27 @@
 		]
 	},
 	{
+		"id": "nashid",
+		"title": "Нашиды",
+		"content": [
+			{
+				"id": "alifun-arnab-yajri-yalgab",
+				"title": "Алифун - Арнаб, яджри ялгаб",
+				"type": "richAudio"
+			},
+			{
+				"id": "liyakun-yawmuka",
+				"title": "Лиякун явмука лишагби вадада",
+				"type": "richAudio"
+			},
+			{
+				"id": "kuntu-maytan",
+				"title": "Кунту майтан",
+				"type": "richAudio"
+			}
+		]
+	},
+	{
 		"id": "about",
 		"title": "О нас",
 		"type": "html"
